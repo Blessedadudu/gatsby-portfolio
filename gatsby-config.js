@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Blessed Adudu is a passionate software engineer who specializes in building state-of-the-art, easy to use, user-friendly applications.',
     siteUrl: 'https://blessedadudu.netlify.app', // No trailing slash allowed!
-    image: '', // Path to your image you placed in the 'static' folder
+    image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@blessed_tld',
   },
   plugins: [
