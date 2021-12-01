@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building exceptional
-        digital experiences across the web (frontend and backend occasionally). Currently, I’m focused on building accessible, human-centered products to improve financial inclusion
+        digital experiences across the web (frontend primarily and backend on demand). Currently, I’m focused on building accessible, human-centered products to improve financial inclusion
         at{' '}
         <a href="https://www.stanbicibtcbank.com/" target="_blank" rel="noreferrer">
           Stanbic IBTC
