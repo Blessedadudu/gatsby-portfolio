@@ -10,4 +10,5 @@ tech:
   - React
   - Jest
 ---
+
 Worked as a member on a team to deliver a financial technology web application for savings and investing. This application enhances financial inclusion in the Africa ecosystem.
